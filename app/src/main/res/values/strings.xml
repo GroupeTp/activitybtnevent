@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToNewActivityButtons</string>
+
+    <string name="context1">BEGINNER: Using the onClick attibute of the Button.</string>
+    <string name="context2">INTERMEDIATE: Assigning an OnClickListener via an anonymous class.</string>
+    <string name="context3">ADVANCE: Activity wide interface method using the switch statement.</string>
+
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+
+    <string name="to_activity_1">To Activity 1</string>
+    <string name="to_activity_2">To Activity 2</string>
+    <string name="to_activity_3">To Activity 3</string>
+
+</resources>
